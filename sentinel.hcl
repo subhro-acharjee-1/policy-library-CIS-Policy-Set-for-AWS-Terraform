@@ -4222,3 +4222,2003 @@ policy "s3-block-public-access-account-level-1000" {
   source = "./policies/s3/s3-block-public-access-account-level.sentinel"
   enforcement_level = "advisory"
 }
+policy "s3-block-public-access-account-level-1001" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1002" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1003" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1004" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1005" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1006" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1007" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1008" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1009" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1010" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1011" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1012" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1013" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1014" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1015" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1016" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1017" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1018" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1019" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1020" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1021" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1022" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1023" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1024" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1025" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1026" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1027" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1028" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1029" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1030" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1031" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1032" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1033" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1034" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1035" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1036" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1037" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1038" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1039" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1040" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1041" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1042" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1043" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1044" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1045" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1046" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1047" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1048" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1049" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1050" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1051" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1052" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1053" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1054" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1055" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1056" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1057" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1058" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1059" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1060" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1061" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1062" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1063" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1064" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1065" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1066" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1067" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1068" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1069" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1070" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1071" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1072" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1073" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1074" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1075" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1076" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1077" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1078" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1079" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1080" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1081" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1082" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1083" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1084" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1085" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1086" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1087" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1088" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1089" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1090" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1091" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1092" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1093" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1094" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1095" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1096" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1097" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1098" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1099" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1100" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1101" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1102" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1103" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1104" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1105" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1106" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1107" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1108" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1109" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1110" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1111" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1112" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1113" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1114" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1115" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1116" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1117" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1118" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1119" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1120" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1121" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1122" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1123" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1124" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1125" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1126" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1127" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1128" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1129" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1130" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1131" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1132" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1133" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1134" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1135" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1136" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1137" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1138" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1139" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1140" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1141" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1142" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1143" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1144" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1145" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1146" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1147" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1148" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1149" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1150" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1151" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1152" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1153" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1154" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1155" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1156" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1157" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1158" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1159" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1160" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1161" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1162" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1163" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1164" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1165" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1166" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1167" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1168" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1169" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1170" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1171" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1172" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1173" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1174" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1175" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1176" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1177" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1178" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1179" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1180" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1181" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1182" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1183" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1184" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1185" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1186" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1187" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1188" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1189" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1190" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1191" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1192" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1193" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1194" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1195" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1196" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1197" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1198" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1199" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1200" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1201" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1202" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1203" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1204" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1205" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1206" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1207" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1208" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1209" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1210" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1211" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1212" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1213" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1214" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1215" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1216" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1217" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1218" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1219" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1220" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1221" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1222" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1223" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1224" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1225" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1226" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1227" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1228" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1229" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1230" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1231" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1232" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1233" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1234" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1235" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1236" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1237" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1238" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1239" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1240" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1241" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1242" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1243" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1244" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1245" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1246" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1247" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1248" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1249" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1250" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1251" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1252" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1253" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1254" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1255" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1256" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1257" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1258" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1259" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1260" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1261" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1262" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1263" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1264" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1265" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1266" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1267" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1268" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1269" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1270" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1271" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1272" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1273" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1274" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1275" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1276" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1277" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1278" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1279" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1280" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1281" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1282" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1283" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1284" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1285" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1286" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1287" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1288" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1289" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1290" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1291" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1292" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1293" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1294" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1295" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1296" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1297" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1298" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1299" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1300" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1301" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1302" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1303" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1304" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1305" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1306" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1307" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1308" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1309" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1310" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1311" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1312" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1313" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1314" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1315" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1316" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1317" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1318" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1319" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1320" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1321" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1322" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1323" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1324" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1325" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1326" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1327" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1328" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1329" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1330" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1331" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1332" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1333" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1334" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1335" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1336" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1337" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1338" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1339" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1340" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1341" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1342" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1343" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1344" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1345" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1346" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1347" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1348" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1349" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1350" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1351" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1352" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1353" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1354" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1355" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1356" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1357" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1358" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1359" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1360" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1361" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1362" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1363" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1364" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1365" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1366" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1367" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1368" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1369" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1370" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1371" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1372" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1373" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1374" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1375" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1376" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1377" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1378" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1379" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1380" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1381" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1382" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1383" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1384" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1385" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1386" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1387" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1388" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1389" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1390" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1391" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1392" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1393" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1394" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1395" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1396" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1397" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1398" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1399" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1400" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1401" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1402" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1403" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1404" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1405" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1406" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1407" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1408" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1409" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1410" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1411" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1412" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1413" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1414" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1415" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1416" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1417" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1418" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1419" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1420" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1421" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1422" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1423" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1424" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1425" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1426" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1427" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1428" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1429" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1430" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1431" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1432" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1433" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1434" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1435" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1436" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1437" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1438" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1439" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1440" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1441" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1442" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1443" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1444" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1445" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1446" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1447" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1448" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1449" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1450" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1451" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1452" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1453" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1454" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1455" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1456" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1457" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1458" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1459" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1460" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1461" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1462" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1463" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1464" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1465" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1466" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1467" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1468" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1469" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1470" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1471" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1472" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1473" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1474" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1475" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1476" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1477" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1478" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1479" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1480" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1481" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1482" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1483" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1484" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1485" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1486" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1487" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1488" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1489" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1490" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1491" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1492" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1493" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1494" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1495" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1496" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1497" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1498" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1499" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
+policy "s3-block-public-access-account-level-1500" {
+  source = "./policies/s3/s3-block-public-access-account-level.sentinel"
+  enforcement_level = "advisory"
+}
