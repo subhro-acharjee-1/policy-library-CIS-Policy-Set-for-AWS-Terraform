@@ -34,6 +34,6 @@ def update_policies_file(n: int):
         f.write(new_content)
 
 if __name__ == "__main__":
-    N = 5000  # <-- number of policies to generate
+    N = 1000  # <-- number of policies to generate
     update_policies_file(N)
     print(f"Updated {FILE_NAME} with {N} policies.")
